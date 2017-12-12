@@ -1,0 +1,1 @@
+when the number of clusters is not known before hand
